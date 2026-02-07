@@ -12,6 +12,7 @@ The calculator includes:
 - Menu- That Contain 3 options
       - Scientific calculator
       - Standard calculator
-      - Exit calculator
+      - Exit the app
+
 To run it, just go to the folder above and double-click orignal.exe.
 Note: This version was built in Debug mode. If you want a Release version, you can open the solution in Visual Studio and rebuild it.
