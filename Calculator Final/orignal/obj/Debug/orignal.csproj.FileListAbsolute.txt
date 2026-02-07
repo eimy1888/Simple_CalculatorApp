@@ -1,0 +1,14 @@
+C:\Users\jirmy\source\repos\orignal\orignal\obj\Debug\orignal.csproj.AssemblyReference.cache
+C:\Users\jirmy\source\repos\orignal\orignal\obj\Debug\orignal.Form1.resources
+C:\Users\jirmy\source\repos\orignal\orignal\obj\Debug\orignal.Properties.Resources.resources
+C:\Users\jirmy\source\repos\orignal\orignal\obj\Debug\orignal.csproj.GenerateResource.cache
+C:\Users\jirmy\source\repos\orignal\orignal\obj\Debug\orignal.csproj.CoreCompileInputs.cache
+C:\Users\jirmy\source\repos\orignal\orignal\bin\Debug\orignal.exe.config
+C:\Users\jirmy\source\repos\orignal\orignal\bin\Debug\orignal.exe
+C:\Users\jirmy\source\repos\orignal\orignal\bin\Debug\orignal.pdb
+C:\Users\jirmy\source\repos\orignal\orignal\obj\Debug\orignal.exe
+C:\Users\jirmy\source\repos\orignal\orignal\obj\Debug\orignal.pdb
+C:\Users\jirmy\source\repos\orignal\orignal\bin\Debug\orignal.exe.manifest
+C:\Users\jirmy\source\repos\orignal\orignal\bin\Debug\orignal.application
+C:\Users\jirmy\source\repos\orignal\orignal\obj\Debug\orignal.exe.manifest
+C:\Users\jirmy\source\repos\orignal\orignal\obj\Debug\orignal.application
